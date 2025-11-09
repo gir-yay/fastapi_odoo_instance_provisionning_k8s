@@ -1,1 +1,1 @@
-# fastapi_infra_provisionning
+# fastapi_odoo_instance_provisionning_k8s
